@@ -1,4 +1,4 @@
-# homebrew formula: epsxe for Mac
+# epsxe for macOS
 
 Install epsxe using [homebrew](http://brew.sh).
 
