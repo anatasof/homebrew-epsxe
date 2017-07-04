@@ -14,19 +14,14 @@ Simply run on your macOS terminal:
 > Written by [xaviermerino](https://github.com/xaviermerino)
 > This is how I solved it in my Mac.
 > I am assuming that your brew directory is standard and you haven't moved it from /usr/local/Cellar.
-
-F>irst we install upx:
-
+>First we install upx:
 > brew install upx
-
 > I am assuming you have already installed epsxe with the instructions provided in this repository. If you did then it is located in the following directory: /usr/local/Cellar/epsxe/2.0.5/bin. We then execute the following commands:
-
 ```
-> cd /usr/local/Cellar/epsxe/2.0.5/bin
-> sudo chmod 777 ./epsxe
-> sudo upx -d ./epsxe
+cd /usr/local/Cellar/epsxe/2.0.5/bin
+sudo chmod 777 ./epsxe
+sudo upx -d ./epsxe
 ```
-
 > You can now run it by just typing epsxe in the command line.
 
 ## Misc
