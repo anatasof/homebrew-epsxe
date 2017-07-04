@@ -11,7 +11,7 @@ Simply run on your macOS terminal:
 <pre><code>epsxe</code></pre>
 
 ## Solving macOS Sierra "Killed: 9"
-> Written by [xaviermerino](https://github.com/xaviermerino)
+Written by [xaviermerino](https://github.com/xaviermerino)
 > This is how I solved it in my Mac.
 > I am assuming that your brew directory is standard and you haven't moved it from /usr/local/Cellar.
 >First we install upx:
